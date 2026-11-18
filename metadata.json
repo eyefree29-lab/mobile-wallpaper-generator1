@@ -1,0 +1,6 @@
+{
+  "name": "무드월 — AI 휴대폰 배경화면",
+  "description": "원하는 분위기를 입력하면 9:16 세로 비율의 감성 휴대폰 배경화면 4종을 생성하고 Remix할 수 있는 모바일 한글 웹 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
